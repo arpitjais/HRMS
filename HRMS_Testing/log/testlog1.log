@@ -1,0 +1,202 @@
+2018-01-21 22:07:51,349 [main] INFO Log4j - Chrome Opened
+2018-01-21 22:07:54,818 [main] INFO Log4j - Opening URL
+2018-01-21 22:07:56,431 [main] INFO Log4j - Entering UserName
+2018-01-21 22:07:56,544 [main] INFO Log4j - Entering Pass.
+2018-01-21 22:08:04,960 [main] INFO Log4j - clicking Submit
+2018-01-21 22:08:07,030 [main] INFO Log4j - Closing Browser
+2018-01-22 01:00:12,654 [main] INFO Log4j - Chrome Opened
+2018-01-22 01:00:19,935 [main] INFO Log4j - Opening URL
+2018-01-22 01:00:21,353 [main] INFO Log4j - Entering UserName
+2018-01-22 01:00:21,433 [main] INFO Log4j - Entering Pass.
+2018-01-22 01:00:30,010 [main] INFO Log4j - clicking Submit
+2018-01-22 01:00:32,132 [main] INFO Log4j - Closing Browser
+2018-01-22 01:05:36,095 [main] INFO Log4j - Chrome Opened
+2018-01-22 01:05:36,629 [main] INFO Log4j - Opening URL
+2018-01-22 01:05:37,880 [main] INFO Log4j - Entering UserName
+2018-01-22 01:05:37,948 [main] INFO Log4j - Entering Pass.
+2018-01-22 01:05:39,254 [main] INFO Log4j - clicking Submit
+2018-01-22 01:05:41,302 [main] INFO Log4j - Closing Browser
+2018-01-22 20:20:36,298 [main] INFO com.hrms.Utility_Log.Log - **** Verify Login and Logout for HRMS **** 
+2018-01-22 20:20:52,240 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-22 20:23:42,983 [main] INFO com.hrms.Utility_Log.Log - **** Verify Login and Logout for HRMS **** 
+2018-01-22 20:23:47,748 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-22 20:23:47,776 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM - New Level of HR Management
+2018-01-22 20:33:26,992 [main] INFO com.hrms.Utility_Log.Log - **** Verify Login and Logout for HRMS **** 
+2018-01-22 20:33:32,046 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-22 20:33:32,073 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM - New Level of HR Management
+2018-01-22 20:36:46,325 [main] INFO com.hrms.Utility_Log.Log - **** Verify Login and Logout for HRMS **** 
+2018-01-22 20:36:55,239 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-22 20:36:55,281 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM - New Level of HR Management
+2018-01-22 20:36:56,617 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-22 20:36:56,649 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-22 20:36:56,950 [main] INFO com.hrms.Utility_Log.Log - **** Login Successfully **** 
+2018-01-22 20:36:56,950 [main] INFO com.hrms.Utility_Log.Log - Test Case PASSED
+2018-01-22 20:43:23,834 [main] INFO com.hrms.Utility_Log.Log - **** Verify Login and Logout for HRMS **** 
+2018-01-22 20:43:29,159 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-22 20:43:29,188 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM - New Level of HR Management
+2018-01-22 20:43:30,069 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-22 20:46:42,151 [main] INFO com.hrms.Utility_Log.Log - **** Verify Login and Logout for HRMS **** 
+2018-01-22 20:46:51,298 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-22 20:46:51,344 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM - New Level of HR Management
+2018-01-22 20:47:34,764 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-22 20:48:31,594 [main] INFO com.hrms.Utility_Log.Log - **** Verify Login and Logout for HRMS **** 
+2018-01-22 20:48:36,277 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-22 20:48:36,322 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM - New Level of HR Management
+2018-01-22 20:50:24,636 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-22 20:50:24,672 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-22 20:50:59,278 [main] INFO com.hrms.Utility_Log.Log - **** Verify Login and Logout for HRMS **** 
+2018-01-22 20:51:06,089 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-22 20:51:06,133 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM - New Level of HR Management
+2018-01-22 20:51:07,799 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-22 20:51:07,824 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-22 20:52:13,097 [main] INFO com.hrms.Utility_Log.Log - **** Verify Login and Logout for HRMS **** 
+2018-01-22 20:52:17,634 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-22 20:52:17,674 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM - New Level of HR Management
+2018-01-22 20:52:24,303 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-22 20:56:13,073 [main] INFO com.hrms.Utility_Log.Log - **** Verify Login and Logout for HRMS **** 
+2018-01-22 20:56:17,555 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-22 20:56:17,583 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM - New Level of HR Management
+2018-01-22 20:56:24,282 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-22 20:57:33,540 [main] INFO com.hrms.Utility_Log.Log - **** Verify Login and Logout for HRMS **** 
+2018-01-22 20:57:37,948 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-22 20:57:37,972 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM - New Level of HR Management
+2018-01-22 20:57:40,110 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-22 20:59:33,723 [main] INFO com.hrms.Utility_Log.Log - **** Verify Login and Logout for HRMS **** 
+2018-01-22 20:59:38,708 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-22 20:59:38,748 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM - New Level of HR Management
+2018-01-22 20:59:40,137 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-22 20:59:40,164 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM
+2018-01-22 20:59:40,294 [main] INFO com.hrms.Utility_Log.Log - **** Login Successfully **** 
+2018-01-22 20:59:40,294 [main] INFO com.hrms.Utility_Log.Log - Test Case PASSED
+2018-01-22 20:59:42,376 [main] INFO com.hrms.Utility_Log.Log - ===== Logout Completed ====== 
+2018-01-22 20:59:43,221 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-22 20:59:43,244 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM
+2018-01-22 20:59:43,301 [main] INFO com.hrms.Utility_Log.Log - **** Login Successfully **** 
+2018-01-22 20:59:43,302 [main] INFO com.hrms.Utility_Log.Log - Test Case PASSED
+2018-01-22 20:59:45,361 [main] INFO com.hrms.Utility_Log.Log - ===== Logout Completed ====== 
+2018-01-22 20:59:46,107 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-22 20:59:46,128 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM
+2018-01-22 20:59:46,178 [main] INFO com.hrms.Utility_Log.Log - **** Login Successfully **** 
+2018-01-22 20:59:46,179 [main] INFO com.hrms.Utility_Log.Log - Test Case PASSED
+2018-01-22 20:59:48,246 [main] INFO com.hrms.Utility_Log.Log - ===== Logout Completed ====== 
+2018-01-22 20:59:48,916 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-22 20:59:48,944 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM
+2018-01-22 20:59:48,994 [main] INFO com.hrms.Utility_Log.Log - **** Login Successfully **** 
+2018-01-22 20:59:48,994 [main] INFO com.hrms.Utility_Log.Log - Test Case PASSED
+2018-01-22 20:59:51,061 [main] INFO com.hrms.Utility_Log.Log - ===== Logout Completed ====== 
+2018-01-22 20:59:51,788 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-22 20:59:51,816 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM
+2018-01-22 20:59:51,863 [main] INFO com.hrms.Utility_Log.Log - **** Login Successfully **** 
+2018-01-22 20:59:51,863 [main] INFO com.hrms.Utility_Log.Log - Test Case PASSED
+2018-01-22 20:59:53,924 [main] INFO com.hrms.Utility_Log.Log - ===== Logout Completed ====== 
+2018-01-22 20:59:54,831 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-22 20:59:54,859 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM
+2018-01-22 20:59:54,908 [main] INFO com.hrms.Utility_Log.Log - **** Login Successfully **** 
+2018-01-22 20:59:54,908 [main] INFO com.hrms.Utility_Log.Log - Test Case PASSED
+2018-01-22 20:59:56,973 [main] INFO com.hrms.Utility_Log.Log - ===== Logout Completed ====== 
+2018-01-22 20:59:57,081 [main] INFO com.hrms.Utility_Log.Log - &&&&&& Application Closed &&&&&& 
+2018-01-23 12:42:34,143 [main] INFO com.hrms.Utility_Log.Log - ****** Verify School Review Page Test Scripts ****** 
+2018-01-23 12:43:07,082 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-23 12:43:07,147 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-23 12:43:08,738 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-23 12:43:08,803 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM
+2018-01-23 12:43:08,976 [main] INFO com.hrms.Utility_Log.Log - Welcome Text Msg is = Welcome admin
+2018-01-23 12:44:24,218 [main] INFO com.hrms.Utility_Log.Log - ****** Verify School Review Page Test Scripts ****** 
+2018-01-23 12:44:53,514 [main] INFO com.hrms.Utility_Log.Log - ****** Verify School Review Page Test Scripts ****** 
+2018-01-23 12:46:27,572 [main] INFO com.hrms.Utility_Log.Log - ****** Verify School Review Page Test Scripts ****** 
+2018-01-23 12:47:56,378 [main] INFO com.hrms.Utility_Log.Log - ****** Verify School Review Page Test Scripts ****** 
+2018-01-23 12:48:04,222 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-23 12:48:04,247 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-23 12:48:05,170 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-23 12:48:05,207 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM
+2018-01-23 12:48:05,258 [main] INFO com.hrms.Utility_Log.Log - Welcome Text Msg is = Welcome admin
+2018-01-23 12:50:07,230 [main] INFO com.hrms.Utility_Log.Log - ****** Verify School Review Page Test Scripts ****** 
+2018-01-23 12:50:14,906 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-23 12:50:14,940 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-23 12:50:16,706 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-23 12:50:16,739 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM
+2018-01-23 12:50:16,784 [main] INFO com.hrms.Utility_Log.Log - Welcome Text Msg is = Welcome admin
+2018-01-23 12:51:29,781 [main] INFO com.hrms.Utility_Log.Log - ****** Verify School Review Page Test Scripts ****** 
+2018-01-23 12:51:35,532 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-23 12:51:35,594 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-23 12:51:37,250 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-23 12:51:37,282 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM
+2018-01-23 12:51:37,326 [main] INFO com.hrms.Utility_Log.Log - Welcome Text Msg is = Welcome admin
+2018-01-23 12:53:31,240 [main] INFO com.hrms.Utility_Log.Log - ****** Verify School Review Page Test Scripts ****** 
+2018-01-23 12:53:46,310 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-23 12:53:46,341 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-23 12:53:47,688 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-23 12:53:47,723 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM
+2018-01-23 12:53:47,764 [main] INFO com.hrms.Utility_Log.Log - Welcome Text Msg is = Welcome admin
+2018-01-23 12:56:34,954 [main] INFO com.hrms.Utility_Log.Log - ****** Verify School Review Page Test Scripts ****** 
+2018-01-23 12:56:48,943 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-23 12:56:48,999 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-23 12:56:50,050 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-23 12:56:50,081 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM
+2018-01-23 12:56:50,123 [main] INFO com.hrms.Utility_Log.Log - Welcome Text Msg is = Welcome admin
+2018-01-23 12:59:16,177 [main] INFO com.hrms.Utility_Log.Log - ****** Verify School Review Page Test Scripts ****** 
+2018-01-23 12:59:23,658 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-23 12:59:23,687 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-23 12:59:25,491 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-23 12:59:25,523 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM
+2018-01-23 12:59:25,563 [main] INFO com.hrms.Utility_Log.Log - Welcome Text Msg is = Welcome admin
+2018-01-23 13:03:13,970 [main] INFO com.hrms.Utility_Log.Log - ****** Verify School Review Page Test Scripts ****** 
+2018-01-23 13:03:21,562 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-23 13:03:21,610 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-23 13:03:23,309 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-23 13:03:23,338 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM
+2018-01-23 13:03:23,387 [main] INFO com.hrms.Utility_Log.Log - Welcome Text Msg is = Welcome admin
+2018-01-23 13:03:56,773 [main] INFO com.hrms.Utility_Log.Log - ****** Verify School Review Page Test Scripts ****** 
+2018-01-23 13:04:03,137 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-23 13:04:03,163 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-23 13:04:06,309 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-23 13:04:06,337 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM
+2018-01-23 13:04:06,379 [main] INFO com.hrms.Utility_Log.Log - Welcome Text Msg is = Welcome admin
+2018-01-23 13:28:49,095 [main] INFO com.hrms.Utility_Log.Log - ****** Verify School Review Page Test Scripts ****** 
+2018-01-23 13:28:57,084 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-23 13:28:57,119 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-23 13:28:58,153 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-23 13:28:58,185 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM
+2018-01-23 13:28:58,228 [main] INFO com.hrms.Utility_Log.Log - Welcome Text Msg is = Welcome admin
+2018-01-23 13:30:20,210 [main] INFO com.hrms.Utility_Log.Log - ****** Verify School Review Page Test Scripts ****** 
+2018-01-23 13:30:29,482 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-23 13:30:29,516 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-23 13:30:30,603 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-23 13:30:30,641 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM
+2018-01-23 13:30:30,685 [main] INFO com.hrms.Utility_Log.Log - Welcome Text Msg is = Welcome admin
+2018-01-23 16:34:49,177 [main] INFO com.hrms.Utility_Log.Log - ****** Verify School Review Page Test Scripts ****** 
+2018-01-23 16:35:07,378 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-23 16:35:07,425 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-23 16:35:09,470 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-23 16:35:09,510 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM
+2018-01-23 16:35:09,572 [main] INFO com.hrms.Utility_Log.Log - Welcome Text Msg is = Welcome admin
+2018-01-23 16:35:15,595 [main] INFO com.hrms.Utility_Log.Log - ===== Logout Completed ====== 
+2018-01-23 16:35:15,677 [main] INFO com.hrms.Utility_Log.Log - &&&&&& Application Closed &&&&&& 
+2018-01-23 17:43:44,304 [main] INFO com.hrms.Utility_Log.Log - ****** Verify SearchComapny Location Test Scripts ****** 
+2018-01-23 17:43:53,833 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-23 17:43:54,009 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-23 17:43:55,959 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-23 17:43:55,987 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM
+2018-01-23 17:43:56,046 [main] INFO com.hrms.Utility_Log.Log - Welcome Text Msg is = Welcome admin
+2018-01-23 17:43:56,694 [main] INFO com.hrms.Utility_Log.Log - ****** Mouse over and click performed for Location ****** 
+2018-01-23 17:43:56,741 [main] INFO com.hrms.Utility_Log.Log - ****** Switch of Frame ****** 
+2018-01-23 17:43:58,862 [main] INFO com.hrms.Utility_Log.Log - ****** VSelecting dropdown ****** 
+2018-01-23 17:43:58,937 [main] INFO com.hrms.Utility_Log.Log - ****** Entering SearchFor ****** 
+2018-01-23 17:43:59,039 [main] INFO com.hrms.Utility_Log.Log - ****** Clicking on serch button ****** 
+2018-01-23 17:43:59,055 [main] INFO com.hrms.Utility_Log.Log - ****** Switching to deafault content ****** 
+2018-01-23 17:44:01,162 [main] INFO com.hrms.Utility_Log.Log - ===== Logout Completed ====== 
+2018-01-23 17:44:01,221 [main] INFO com.hrms.Utility_Log.Log - &&&&&& Application Closed &&&&&& 
+2018-01-23 17:52:09,568 [main] INFO com.hrms.Utility_Log.Log - ****** Verify SearchComapny Location Test Scripts ****** 
+2018-01-23 17:52:18,341 [main] INFO com.hrms.Utility_Log.Log - ====== Application Open ===== 
+2018-01-23 17:52:18,375 [main] INFO com.hrms.Utility_Log.Log - Title Matched and it's = OrangeHRM - New Level of HR Management
+2018-01-23 17:52:21,473 [main] INFO com.hrms.Utility_Log.Log - Click on LogIn Button
+2018-01-23 17:52:21,507 [main] INFO com.hrms.Utility_Log.Log - Title not Matched and Expected Title is = OrangeHRM
+2018-01-23 17:52:21,548 [main] INFO com.hrms.Utility_Log.Log - Welcome Text Msg is = Welcome admin
+2018-01-23 17:52:22,089 [main] INFO com.hrms.Utility_Log.Log - ****** Mouse over and click performed for Location ****** 
+2018-01-23 17:52:22,136 [main] INFO com.hrms.Utility_Log.Log - ****** Switch of Frame ****** 
+2018-01-23 17:52:24,254 [main] INFO com.hrms.Utility_Log.Log - ****** VSelecting dropdown ****** 
+2018-01-23 17:52:24,332 [main] INFO com.hrms.Utility_Log.Log - ****** Entering SearchFor ****** 
+2018-01-23 17:52:24,430 [main] INFO com.hrms.Utility_Log.Log - ****** Clicking on serch button ****** 
+2018-01-23 17:52:26,439 [main] INFO com.hrms.Utility_Log.Log - ****** Switching to deafault content ****** 
+2018-01-23 17:52:28,534 [main] INFO com.hrms.Utility_Log.Log - ===== Logout Completed ====== 
+2018-01-23 17:52:28,580 [main] INFO com.hrms.Utility_Log.Log - &&&&&& Application Closed &&&&&& 
