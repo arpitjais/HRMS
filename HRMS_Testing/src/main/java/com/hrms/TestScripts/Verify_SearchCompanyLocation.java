@@ -14,7 +14,7 @@ import com.hrms.utility.Base_Class;
 public class Verify_SearchCompanyLocation {
 
 	@Test
-	public void addCompanyLocation() throws Exception {
+	public static void addCompanyLocation() throws Exception {
 		PropertyConfigurator.configure("log4j.properties"); // In Main method
 		System.out.println("****** Verify SearchComapny Location Test Scripts ******");
 		Reporter.log("****** Verify SearchComapny Location Test Scripts ******");

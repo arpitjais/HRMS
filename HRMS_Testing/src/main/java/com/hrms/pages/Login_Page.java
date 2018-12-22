@@ -36,7 +36,7 @@ public class Login_Page extends Base_Class {
 		driver.findElement(txt_Password).sendKeys(pw);
 
 		WebDriverWait wait = new WebDriverWait(driver, 40);
-		wait.until(ExpectedConditions.elementToBeClickable(btn_login));
+//		wait.until(ExpectedConditions.elementToBeClickable(btn_login));
 
 
 		driver.findElement(btn_login).click();

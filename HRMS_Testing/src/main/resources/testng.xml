@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.hrms.TestScripts.Verify_SearchCompanyLocation"/>
-      <class name="com.hrms.TestScripts.Verify_AddCompanyLocation"/>
+<!--       <class name="com.hrms.TestScripts.Verify_SearchCompanyLocation"/>
+      <class name="com.hrms.TestScripts.Verify_AddCompanyLocation"/> -->
       <class name="com.hrms.TestScripts.Verify_Login"/>
     </classes>
   </test> <!-- Test -->

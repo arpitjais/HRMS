@@ -45,7 +45,7 @@ public class Actions_Class extends Base_Class {
 	// ======== Explicit Wait
 	public static void explicitwait(String x) {
 		WebDriverWait wait = new WebDriverWait(driver, 40);
-		wait.until(ExpectedConditions.elementToBeClickable(By.xpath(x)));
+//		wait.until(ExpectedConditions.elementToBeClickable(By.xpath(x)));
 		driver.findElement(By.xpath(x)).click();
 		System.out.println("Explicit Wait Executed");
 	}

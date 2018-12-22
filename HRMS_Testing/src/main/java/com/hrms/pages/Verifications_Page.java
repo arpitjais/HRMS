@@ -11,7 +11,7 @@ import static org.testng.Assert.assertTrue;
 public class Verifications_Page extends Base_Class {
 
 	// ============ Methods
-	public static void verifyTitle(String title) {
+	public static  void verifyTitle(String title) {
 		PropertyConfigurator.configure("Log4j.properties"); // In Main method
 
 		if (driver.getTitle().equals(title)) {

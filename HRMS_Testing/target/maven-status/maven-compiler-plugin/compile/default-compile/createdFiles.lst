@@ -1,0 +1,15 @@
+com\hrms\pages\SearchCompanyLocation_Page.class
+com\hrms\pages\AddCompanyLocation_Page.class
+com\hrms\TestScripts\Verify_userNameText.class
+com\hrms\TestScripts\Verify_Login.class
+com\hrms\utility\Actions_Class.class
+com\hrms\pages\Logout_Page.class
+com\hrms\pages\Log4j.class
+com\hrms\Utility_Log\Log.class
+com\hrms\utility\Excell_Utils.class
+com\hrms\pages\Verifications_Page.class
+com\hrms\TestScripts\Verify_AddCompanyLocation.class
+com\hrms\TestScripts\Verify_SearchCompanyLocation.class
+com\hrms\utility\Base_Class.class
+com\annotation\Pages.class
+com\hrms\pages\Login_Page.class
